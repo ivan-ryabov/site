@@ -3,5 +3,9 @@
 	padding: 0px;
 }
 body {
-	background: red;
+	/*background: red;*/
+	background: green;
+}
+h1 {
+	font-size: 40px;
 }
